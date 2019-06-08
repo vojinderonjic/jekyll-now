@@ -1,6 +1,6 @@
 ---
 layout: post
 title: Baby steps...
-permalink: /blog/
+permalink: /blog/baby-steps/
 ---
 Khm
